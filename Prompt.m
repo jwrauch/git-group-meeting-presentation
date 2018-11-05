@@ -5,8 +5,8 @@ clear all;
 x=10;
 y=20;
 
-%add=x+y;
-%multiply=x*y;
+add=x+y;
+multiply=x*y;
 
 prompt = 'Do you addition (A) or multiplicaton(M)? ';
 str = input(prompt,'s');
