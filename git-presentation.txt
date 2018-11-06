@@ -2,7 +2,8 @@ Basic git for solo work:
 
     - create a local repository
     - add files to track
-    - create a .gitignore file
+        - talk about status command and the unstaged and staged areas
+        - mention that if a file is not specified, it adds all files
     - commit changes to a file
         - talk about when to commit, often
         - talk about commit statement
@@ -11,16 +12,17 @@ Basic git for solo work:
     - remove and move files using git and without git
     - show git log to view history
     - revert and/or reset unwanted changes and retrieve removed file
+    - create a .gitignore file
     - talk about general workflow with git
 
 A little more sophisticated solo work:
 
+    - create backup repository on cluster or github
+    - push and pull from the backup
     - create branch for unfinished/untested code
     - merge branches with and without conflicts
         - talk about workflows to avoid conflicts
         - show at least one way of resolving conflicts
-    - create backup repository on cluster or github
-    - push and pull from the backup
     - emphasize workflow again!
 
 Working with a group:
@@ -33,6 +35,3 @@ We also want to include links to the git home and documentation pages, the
 tutorials we find most useful, as well as an overall cheatsheet for commands.
 And I just thought a sheet depicting good workflow may be nice too.
 
-
-
-I made a change.
