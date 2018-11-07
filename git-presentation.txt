@@ -35,3 +35,4 @@ We also want to include links to the git home and documentation pages, the
 tutorials we find most useful, as well as an overall cheatsheet for commands.
 And I just thought a sheet depicting good workflow may be nice too.
 
+Made a small change.
